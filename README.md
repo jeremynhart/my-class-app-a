@@ -71,3 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Instructions to downgrade to React 17.2.0
 https://stackoverflow.com/questions/46566830/how-to-use-create-react-app-with-an-older-react-version
+
+### Instructions to rename Master Branch to Main
+
+https://git-scm.com/book/en/v2/Git-Branching-Branch-Management
